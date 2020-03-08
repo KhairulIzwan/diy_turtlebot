@@ -1,6 +1,6 @@
 # diy_turtlebot
 
-## Part Required for Mobile Platform
+> ## Part Required for Mobile Platform
 
 ### Structure
 1. Turtlebot3 Base (3D Printed)
