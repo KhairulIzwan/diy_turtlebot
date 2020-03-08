@@ -7,6 +7,7 @@
 >> ### Electronics
 >>> #### Controller
 >>> 1. Arduino Mega 2560
+>>> 2. Arduino UNO
 >>> 2. Raspberry Pi 4 4GB
 >>> 	1. SD Card 16GB
 >>> #### Actuator/Sensor
@@ -31,8 +32,9 @@
 >>> No | Items | Cost/Unit | Unit | Cost
 >>> ------------ | ------------- | ------------- | ------------- | -------------
 >>> 1 | 3D Printed Base | 6 | Content from cell 2 | Content from cell 2
->>> 2 | M3 PCB Stand 40mm | Content from cell 2 | Content from cell 2 | Content from cell 2
->>> 3 | Arduino Mega 2560 | Content from cell 2 | Content from cell 2 | Content from cell 2
+>>> 2 | M3 PCB Stand 40mm | 16 | Content from cell 2 | Content from cell 2
+>>> 3 | Arduino Mega 2560 | 1 | Content from cell 2 | Content from cell 2
+>>> 3 | Arduino UNO | 1 | Content from cell 2 | Content from cell 2
 >>> 4 | Raspberry Pi 4 (4GB) | 1 | Content from cell 2 | Content from cell 2
 >>> 5 | 16BG SD Card | 1 | Content from cell 2 | Content from cell 2
 >>> 6 | DC Motor Driver | 1 | Content from cell 2 | Content from cell 2
