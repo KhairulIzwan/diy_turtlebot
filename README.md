@@ -29,10 +29,10 @@
 >>> 6. Battery Header Connector
 >>> 7. Wheel
 >> ## Costing
->>> No | Items | Unit | Cost/Unit | Cost | Reference
+>>> No | Items | Unit | Cost/Unit (RM) | Cost (RM) | Reference
 >>> ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 >>> 1 | 3D Printed Base | 6 | Content from cell 2 | Content from cell 2 | 
->>> 2 | M3 PCB Stand 40mm | 16 | Content from cell 2 | Content from cell 2 | https://my.cytron.io/p-m3-pcb-stand-screw-and-screw-40mm?search=PCB%20Stand&description=1&src=search.list
+>>> 2 | M3 PCB Stand 40mm | 16 | 1.40 | Content from cell 2 | https://my.cytron.io/p-m3-pcb-stand-screw-and-screw-40mm?search=PCB%20Stand&description=1&src=search.list
 >>> 3 | Arduino Mega 2560 | 1 | Content from cell 2 | Content from cell 2 | 
 >>> 4 | Arduino UNO | 1 | Content from cell 2 | Content from cell 2 | 
 >>> 5 | Raspberry Pi 4 (4GB) | 1 | Content from cell 2 | Content from cell 2 | 
