@@ -32,11 +32,11 @@
 >>> No | Items | Unit | Cost/Unit | Cost | Reference
 >>> ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 >>> 1 | 3D Printed Base | 6 | Content from cell 2 | Content from cell 2 | 
->>> 2 | M3 PCB Stand 40mm | 16 | Content from cell 2 | Content from cell 2 | 
+>>> 2 | M3 PCB Stand 40mm | 16 | Content from cell 2 | Content from cell 2 | https://my.cytron.io/p-m3-pcb-stand-screw-and-screw-40mm?search=PCB%20Stand&description=1&src=search.list
 >>> 3 | Arduino Mega 2560 | 1 | Content from cell 2 | Content from cell 2 | 
 >>> 4 | Arduino UNO | 1 | Content from cell 2 | Content from cell 2 | 
 >>> 5 | Raspberry Pi 4 (4GB) | 1 | Content from cell 2 | Content from cell 2 | 
->>> 6 | 16BG SD Card | 1 | Content from cell 2 | Content from cell 2 | 
+>>> 6 | 16GB SD Card | 1 | Content from cell 2 | Content from cell 2 | 
 >>> 7 | DC Motor Driver | 1 | Content from cell 2 | Content from cell 2 | 
 >>> 8 | 6V DC Motor with Encoder | 2 | Content from cell 2 | Content from cell 2 | 
 >>> 9 | 6 DOF IMU | 1 | Content from cell 2 | Content from cell 2 | 
