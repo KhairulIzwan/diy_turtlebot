@@ -40,14 +40,14 @@
 >>> 8 | 6 DOF IMU | 1 | Content from cell 2 | Content from cell 2
 >>> 9 | Camera | 1 | Content from cell 2 | Content from cell 2
 >>> 10 | LiDAR | 1 | Content from cell 2 | Content from cell 2
->>> 11 | 12V LiPO Battery | Content from cell 2 | Content from cell 2 | Content from cell 2
->>> 12 | Powerbank | Content from cell 2 | Content from cell 2 | Content from cell 2
->>> 13 | USB-C Type | Content from cell 2 | Content from cell 2 | Content from cell 2
->>> 14 | Voltage Regulator | Content from cell 2 | Content from cell 2 | Content from cell 2
->>> 15 | PCB | Content from cell 2 | Content from cell 2 | Content from cell 2
->>> 16 | Header Pin | Content from cell 2 | Content from cell 2 | Content from cell 2
->>> 17 | Jumper Wire | Content from cell 2 | Content from cell 2 | Content from cell 2
->>> 18 | Battery Header Connector | Content from cell 2 | Content from cell 2 | Content from cell 2
+>>> 11 | 12V LiPO Battery | 1 | Content from cell 2 | Content from cell 2
+>>> 12 | Powerbank | 1 | Content from cell 2 | Content from cell 2
+>>> 13 | USB-C Type | 1 | Content from cell 2 | Content from cell 2
+>>> 14 | Voltage Regulator | 1 | Content from cell 2 | Content from cell 2
+>>> 15 | PCB | 1 | Content from cell 2 | Content from cell 2
+>>> 16 | Header Pin | 1 | Content from cell 2 | Content from cell 2
+>>> 17 | Jumper Wire | 1 | Content from cell 2 | Content from cell 2
+>>> 18 | Battery Header Connector | 1 | Content from cell 2 | Content from cell 2
 >>> 19 | Wheel | 2 | Content from cell 2 | Content from cell 2
 >>> ### Items Reference:
 
