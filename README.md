@@ -12,7 +12,7 @@
 2. Raspberry Pi 4 4GB
 	1. SD Card 16GB
  
-### Actuator/Sensor
+#### Actuator/Sensor
 1. DC Motor
 	1. DC Motor Driver
 	2. 12V DC Motor with Encoder
@@ -20,7 +20,12 @@
 3. Camera
 4. LiDAR
 
-### Power
+#### Power
 1. 12V LiPO Battery
 2. Powerbank
 
+## Costing
+No | Items | Cost/Unit | Unit | Cost
+------------ | ------------- | ------------- | ------------- | -------------
+Content from cell 1 | Content from cell 2 | Content from cell 2 | Content from cell 2 | Content from cell 2
+Content in the first column | Content in the second column | Content in the second column | Content in the second column | Content in the second column
