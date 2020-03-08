@@ -43,13 +43,13 @@
 >>> 10 | Camera | 1 | 115.00 | Content from cell 2 | https://www.autobotic.com.my/raspberry-pi-products/raspberry-pi-camera-modules/raspberry-pi-8mp-camera-board-v2
 >>> 11 | LiDAR | 1 | 4522.00 | Content from cell 2 | https://my.cytron.io/p-hokuyo-urg-laser-range-finder-4m-new?search=hokuyo&description=1&src=search.list
 >>> 12 | 12V LiPO Battery | 1 | 50.00 | Content from cell 2 | https://my.cytron.io/p-lipo-battery-11.1v-1300mah?search=lipo&description=1&src=search.list
->>> 13 | Powerbank | 1 | Content from cell 2 | Content from cell 2 | 
->>> 14 | USB-C Type | 1 | Content from cell 2 | Content from cell 2 | 
+>>> 13 | Powerbank | 1 | N/A | N/A | Users
+>>> 14 | USB-C Type | 1 | N/A | N/A | Users
 >>> 15 | Voltage Regulator | 1 | Content from cell 2 | Content from cell 2 | 
->>> 16 | PCB | 1 | Content from cell 2 | Content from cell 2 | 
->>> 17 | Header Pin | 1 | Content from cell 2 | Content from cell 2 | 
->>> 18 | Jumper Wire | 1 | Content from cell 2 | Content from cell 2 | 
+>>> 16 | PCB | 1 | 4.50 | Content from cell 2 | https://my.cytron.io/p-single-sided-donut-board-7x10cm-green?src=search.list
+>>> 17 | Header Pin | 1 | 1.90 | Content from cell 2 | https://www.autobotic.com.my/40-pin-2-54-mm-dual-row-pin-male-header?search=pin%20header
+>>> 18 | Jumper Wire | 1 | 4.50 | Content from cell 2 | https://www.autobotic.com.my/male-to-female-arduino-breadboard-dupont-jumper-wires-40p-30cm?search=jumper
 >>> 19 | Battery Header Connector | 1 | 4.00 | Content from cell 2 | https://www.autobotic.com.my/T-Dean-LiPo-Battery-Male-Connector-with-Cable-15cm?search=battery%20connector
->>> 20 | Wheel | 2 | Content from cell 2 | Content from cell 2 | 
+>>> 20 | Wheel | 2 | 3.00 | Content from cell 2 | https://my.cytron.io/p-mini-wheel-46x10-mm?search=wheel&description=1&src=search.list
 >>> ### Items Reference:
 
