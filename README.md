@@ -8,10 +8,10 @@
 
 >> ### Electronics
 >>> #### Controller
-1. Arduino Mega 2560
-2. Raspberry Pi 4 4GB
-	1. SD Card 16GB
-	2. 3.5" Screen
+>>> 1. Arduino Mega 2560
+>>> 2. Raspberry Pi 4 4GB
+>>> 	1. SD Card 16GB
+>>> 	2. 3.5" Screen
  
 >>> #### Actuator/Sensor
 1. DC Motor
