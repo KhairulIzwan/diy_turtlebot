@@ -30,7 +30,7 @@
 >>> 7. Wheel
 >> ## Costing
 >>> No | Items | Unit | Cost/Unit | Cost | Reference
->>> ------------ | ------------- | ------------- | ------------- | -------------
+>>> ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 >>> 1 | 3D Printed Base | 6 | Content from cell 2 | Content from cell 2 | 
 >>> 2 | M3 PCB Stand 40mm | 16 | Content from cell 2 | Content from cell 2 | 
 >>> 3 | Arduino Mega 2560 | 1 | Content from cell 2 | Content from cell 2 | 
