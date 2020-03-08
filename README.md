@@ -37,9 +37,9 @@
 >>> 4 | Arduino UNO | 1 | 105.00 | Content from cell 2 | https://my.cytron.io/p-arduino-uno-rev3-main-board?src=search.instant
 >>> 5 | Raspberry Pi 4 (4GB) | 1 | 265.50 | Content from cell 2 | https://my.cytron.io/p-raspberry-pi-4-model-b-4gb?src=search.instant
 >>> 6 | 16GB SD Card | 1 | 19.00 | Content from cell 2 | https://www.autobotic.com.my/SanDisk-16GB-Ultra-A1-Micro-SD-Card-98MB-s-Class-10?search=sd%20card
->>> 7 | DC Motor Driver | 1 | Content from cell 2 | Content from cell 2 | 
->>> 8 | 6V DC Motor with Encoder | 2 | Content from cell 2 | Content from cell 2 | 
->>> 9 | 6 DOF IMU | 1 | Content from cell 2 | Content from cell 2 | 
+>>> 7 | DC Motor Driver | 1 | 26.50 | Content from cell 2 | https://www.autobotic.com.my/L298P-Motor-Driver-Shield-for-Arduino?search=motor%20driver
+>>> 8 | 6V DC Motor with Encoder | 2 | 39.00 | Content from cell 2 | https://www.autobotic.com.my/motors/dc-gear-motor/Micro-Metal-Geared-motor-w-Encoder-6V-75RPM-210-1
+>>> 9 | 6 DOF IMU | 1 | 9.50 | Content from cell 2 | https://my.cytron.io/p-gy-521-mpu6050-6dof-accelerometer-plus-gyro?src=search.instant
 >>> 10 | Camera | 1 | Content from cell 2 | Content from cell 2 | 
 >>> 11 | LiDAR | 1 | Content from cell 2 | Content from cell 2 | 
 >>> 12 | 12V LiPO Battery | 1 | Content from cell 2 | Content from cell 2 | 
