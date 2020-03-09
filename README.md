@@ -76,5 +76,7 @@
 >>> 14 | Battery Header Connector | 1 | 3.00 | 3.00 | https://my.cytron.io/p-lithium-polymer-battery-connector-red?src=search.instant
 >>> 15 | Wheel | 2 | 3.00 | 6.00 | https://my.cytron.io/p-mini-wheel-46x10-mm?search=wheel&description=1&src=search.list
 >>> 16 | UPS Power HAT for Raspberry Pi | 1 | 129.00 | 129.00 | https://my.cytron.io/p-ups-power-hat-for-raspberry-pi?search=power%20hat%20raspberry%20pi&description=1&src=search.list
+>>> 17 | PC104 Header Pin (2x20) | 1 | 5.00 | 5.00 | https://my.cytron.io/p-pc104-header-pin-2x20?search=header%20pin&description=1&src=search.list
+
 
 
