@@ -33,8 +33,8 @@
 >>> ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 >>> 1 | 3D Printed Base | 6 | 51.62 | 309.72 | -
 >>> 2 | M3 PCB Stand 40mm | 32 | 1.50 | 48.00 | https://my.cytron.io/p-m3-pcb-stand-screw-and-nut-40mm?search=PCB%20Stand&description=1&src=search.list
->>> 3 | Arduino Mega 2560 | 1 | 179.00 | 179.00 | https://my.cytron.io/p-arduino-mega-2560-r3-main-board?src=search.instant
->>> 4 | Arduino UNO | 1 | 105.00 | 105.00 | https://my.cytron.io/p-arduino-uno-rev3-main-board?src=search.instant
+>>> 3 | Arduino Mega 2560 + USB B Type | 1 | 182.20 | 182.20 | https://my.cytron.io/p-arduino-mega-2560-r3-main-board?src=search.instant
+>>> 4 | Arduino UNO + USB B Type | 1 | 108.20 | 108.20 | https://my.cytron.io/p-arduino-uno-rev3-main-board?src=search.instant
 >>> 5 | Raspberry Pi 4 (4GB) | 1 | 265.50 | 265.50 | https://my.cytron.io/p-raspberry-pi-4-model-b-4gb?src=search.instant
 >>> 6 | 16GB SD Card | 1 | 19.00 | 19.00 | https://www.autobotic.com.my/SanDisk-16GB-Ultra-A1-Micro-SD-Card-98MB-s-Class-10?search=sd%20card
 >>> 7 | DC Motor Driver | 1 | 26.50 | 26.50 | https://www.autobotic.com.my/L298P-Motor-Driver-Shield-for-Arduino?search=motor%20driver
