@@ -32,7 +32,7 @@
 >>> No | Items | Unit | Cost/Unit (RM) | Cost (RM) | Reference
 >>> ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 >>> 1 | 3D Printed Base | 6 | 51.62 | 309.72 | -
->>> 2 | M3 PCB Stand 40mm | 16 | 1.40 | 22.40 | https://my.cytron.io/p-m3-pcb-stand-screw-and-screw-40mm?search=PCB%20Stand&description=1&src=search.list
+>>> 2 | M3 PCB Stand 40mm | 32 | 1.50 | 48.00 | https://my.cytron.io/p-m3-pcb-stand-screw-and-nut-40mm?search=PCB%20Stand&description=1&src=search.list
 >>> 3 | Arduino Mega 2560 | 1 | 179.00 | 179.00 | https://my.cytron.io/p-arduino-mega-2560-r3-main-board?src=search.instant
 >>> 4 | Arduino UNO | 1 | 105.00 | 105.00 | https://my.cytron.io/p-arduino-uno-rev3-main-board?src=search.instant
 >>> 5 | Raspberry Pi 4 (4GB) | 1 | 265.50 | 265.50 | https://my.cytron.io/p-raspberry-pi-4-model-b-4gb?src=search.instant
