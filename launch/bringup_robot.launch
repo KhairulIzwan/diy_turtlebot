@@ -1,0 +1,12 @@
+<launch>
+
+	<!-- Motor -->
+	<include file="$(find diy_turtlebot)/launch/motor_robot.launch" />
+
+	<!-- Camera -->
+	<include file="$(find diy_turtlebot)/launch/camera_robot.launch" />
+
+	<!-- RPLiDar -->
+	<!-- <include file="$(find rplidar_ros)/launch/rplidar.launch" /> -->
+
+</launch>
